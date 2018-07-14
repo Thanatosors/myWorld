@@ -11,6 +11,7 @@ two
 one
 >>>>>>> featurel
 again
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -24,3 +25,6 @@ bug?
 =======
 bug?
 >>>>>>> Stashed changes
+=======
+bug??
+devev
