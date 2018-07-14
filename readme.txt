@@ -13,7 +13,11 @@ one
 again
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ...
+=======
+bug?
+>>>>>>> Stashed changes
 =======
 bug?
 >>>>>>> Stashed changes
