@@ -11,4 +11,12 @@ two
 one
 >>>>>>> featurel
 again
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ...
+=======
+bug?
+>>>>>>> Stashed changes
+=======
+bug?
+>>>>>>> Stashed changes
